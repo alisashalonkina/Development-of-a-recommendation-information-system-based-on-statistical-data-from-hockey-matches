@@ -3,3 +3,4 @@
 Партнёр: Хоккейный клуб «Трактор» \ ПАО Сбербанк; 
 Тип данных: Табличные данные
 https://www.kaggle.com/datasets/martinellis/nhl-game-data
+https://www.kaggle.com/datasets/open-source-sports/professional-hockey-database
